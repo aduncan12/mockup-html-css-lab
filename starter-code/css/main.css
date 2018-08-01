@@ -41,8 +41,12 @@ h4 a {
     color: #F5D59E;
 }
 
-nav a:hover {
+header nav a:hover {
     font-size: 200%; 
+}
+
+footer nav a:hover {
+    font-weight: bold; 
 }
 
 nav a {
